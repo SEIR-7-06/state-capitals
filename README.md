@@ -31,11 +31,11 @@ To play the game:
 
 ### Potentially Useful Methods
 
-- `print`
-- `input`
-- `for loop`
-- `sorted`
-- `random.shuffle()`
+- `print()` - print information to the terminal
+- `input()` - can be used to get information from the user
+- `for in loop` - used for looping over Python lists
+- `sorted()` - allows you to created a sorted list
+- `random.shuffle()` - Shuffles a list
 
 ## Bonus!
 
